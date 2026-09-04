@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-04",
+  "status": "reviewed",
+  "articles": [
+    {
+      "media": "interview",
+      "slug": "ai-interview-response-format",
+      "url": "https://techworker.co.jp/media/interview/ai-interview-response-format",
+      "html": "media/interview/ai-interview-response-format.html",
+      "image": "media/interview/covers/ai-interview-response-format.png",
+      "sourceCount": 6,
+      "editorialScore": 82,
+      "performanceDelta": "topic-cluster baseline not established; manual editorial review",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "kenshu",
+      "slug": "copilot-studio-governance",
+      "url": "https://techworker.co.jp/media/kenshu/copilot-studio-governance",
+      "html": "media/kenshu/copilot-studio-governance.html",
+      "image": "media/kenshu/covers/copilot-studio-governance.png",
+      "sourceCount": 6,
+      "editorialScore": 87,
+      "performanceDelta": "topic-cluster baseline not established; manual editorial review",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "infra",
+      "slug": "cloudflare-ai-gateway-cache-safety",
+      "url": "https://techworker.co.jp/media/infra/cloudflare-ai-gateway-cache-safety",
+      "html": "media/infra/cloudflare-ai-gateway-cache-safety.html",
+      "image": "media/infra/covers/cloudflare-ai-gateway-cache-safety.png",
+      "sourceCount": 6,
+      "editorialScore": 81,
+      "performanceDelta": "topic-cluster baseline not established; manual editorial review",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "security",
+      "slug": "mcp-server-supply-chain-security",
+      "url": "https://techworker.co.jp/media/security/mcp-server-supply-chain-security",
+      "html": "media/security/mcp-server-supply-chain-security.html",
+      "image": "media/security/covers/mcp-server-supply-chain-security.png",
+      "sourceCount": 7,
+      "editorialScore": 86,
+      "performanceDelta": "topic-cluster baseline not established; manual editorial review",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "shigyo",
+      "slug": "legal-citation-source-verification",
+      "url": "https://techworker.co.jp/media/shigyo/legal-citation-source-verification",
+      "html": "media/shigyo/legal-citation-source-verification.html",
+      "image": "media/shigyo/covers/legal-citation-source-verification.png",
+      "sourceCount": 6,
+      "editorialScore": 79,
+      "performanceDelta": "topic-cluster baseline not established; manual editorial review",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "simulation",
+      "slug": "synthetic-human-hybrid-concept-test",
+      "url": "https://techworker.co.jp/media/simulation/synthetic-human-hybrid-concept-test",
+      "html": "media/simulation/synthetic-human-hybrid-concept-test.html",
+      "image": "media/simulation/covers/synthetic-human-hybrid-concept-test.png",
+      "sourceCount": 6,
+      "editorialScore": 80,
+      "performanceDelta": "topic-cluster baseline not established; manual editorial review",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    }
+  ],
+  "gates": {
+    "contentOnly": true,
+    "retiredMediaExcluded": true,
+    "canonical": true,
+    "structuredData": true,
+    "ctaWiring": true,
+    "uniqueGeneratedImagePerArticle": true
+  }
+}
