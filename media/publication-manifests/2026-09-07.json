@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-07",
+  "status": "reviewed",
+  "articles": [
+    {
+      "media": "interview",
+      "slug": "ai-interview-data-retention",
+      "url": "https://techworker.co.jp/media/interview/ai-interview-data-retention",
+      "html": "media/interview/ai-interview-data-retention.html",
+      "image": "media/interview/covers/ai-interview-data-retention.png",
+      "sourceCount": 6,
+      "editorialScore": 90,
+      "performanceDelta": "topic-cluster metrics reviewed; new page has no post-publication outcome yet",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "kenshu",
+      "slug": "generative-ai-training-effectiveness",
+      "url": "https://techworker.co.jp/media/kenshu/generative-ai-training-effectiveness",
+      "html": "media/kenshu/generative-ai-training-effectiveness.html",
+      "image": "media/kenshu/covers/generative-ai-training-effectiveness.png",
+      "sourceCount": 7,
+      "editorialScore": 91,
+      "performanceDelta": "topic-cluster metrics reviewed; new page has no post-publication outcome yet",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "infra",
+      "slug": "ai-agent-observability-trace-design",
+      "url": "https://techworker.co.jp/media/infra/ai-agent-observability-trace-design",
+      "html": "media/infra/ai-agent-observability-trace-design.html",
+      "image": "media/infra/covers/ai-agent-observability-trace-design.png",
+      "sourceCount": 7,
+      "editorialScore": 88,
+      "performanceDelta": "topic-cluster metrics reviewed; new page has no post-publication outcome yet",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "security",
+      "slug": "mcp-oauth-authorization-design",
+      "url": "https://techworker.co.jp/media/security/mcp-oauth-authorization-design",
+      "html": "media/security/mcp-oauth-authorization-design.html",
+      "image": "media/security/covers/mcp-oauth-authorization-design.png",
+      "sourceCount": 7,
+      "editorialScore": 91,
+      "performanceDelta": "topic-cluster metrics reviewed; new page has no post-publication outcome yet",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "shigyo",
+      "slug": "professional-genai-incident-response",
+      "url": "https://techworker.co.jp/media/shigyo/professional-genai-incident-response",
+      "html": "media/shigyo/professional-genai-incident-response.html",
+      "image": "media/shigyo/covers/professional-genai-incident-response.png",
+      "sourceCount": 6,
+      "editorialScore": 86,
+      "performanceDelta": "topic-cluster metrics reviewed; new page has no post-publication outcome yet",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    },
+    {
+      "media": "simulation",
+      "slug": "consumer-digital-twin-ad-claim-evidence",
+      "url": "https://techworker.co.jp/media/simulation/consumer-digital-twin-ad-claim-evidence",
+      "html": "media/simulation/consumer-digital-twin-ad-claim-evidence.html",
+      "image": "media/simulation/covers/consumer-digital-twin-ad-claim-evidence.png",
+      "sourceCount": 7,
+      "editorialScore": 88,
+      "performanceDelta": "topic-cluster metrics reviewed; new page has no post-publication outcome yet",
+      "imageMethod": "unique OpenAI-generated editorial infographic, cropped to 1200x630"
+    }
+  ],
+  "gates": {
+    "contentOnly": true,
+    "retiredMediaExcluded": true,
+    "canonical": true,
+    "structuredData": true,
+    "ctaWiring": true,
+    "uniqueGeneratedImagePerArticle": true
+  }
+}
